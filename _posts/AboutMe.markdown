@@ -1,5 +1,7 @@
 ---
 title:  "About Me"
+subtitle:
+author: Nicole
 avatar: "img/authors/wferr.png"
 image: "56770698_1997031337072732_4786564730099597312_n.jpg"
 ---
