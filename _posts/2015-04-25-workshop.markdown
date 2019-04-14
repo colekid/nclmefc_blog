@@ -3,7 +3,7 @@ title:  "Resume"
 subtitle: "Hire Me!"
 author: "Nicotine_Patch"
 avatar: "img/authors/57253354_2343782818976189_3750641617854267392_n.png"
-image: "Hire-Me-1024x493.png"
+image: "Hire-Me-1024x493.jpg"
 ---
 
 ### EDUCATION	
@@ -36,9 +36,9 @@ Barnes & Noble College Bookstore – (Florida International University) – Miam
     •	Dealt with the use of Raspberry Pi 3 to  configure out the connection between the user’s device and the command-line prompt
     •	Designed to check up on the connection history of a user’s device
 ### SKILLS
-    •	Proficiency in Object Oriented Programming (Java)
-    •	Experience with: Java, Javascript, C++, Adobe Photoshop, and Illustrator
-    •	Fluent in Tagalog
+•	Proficiency in Object Oriented Programming (Java)
+•	Experience with: Java, Javascript, C++, Adobe Photoshop, and Illustrator
+•	Fluent in Tagalog
 ### ACTIVITIES  
   Upsilon Pi Epsilon (Honor Society for CS/IT) - Miami, FL				October 2018
     •	Attended Hackathons and workshop events
