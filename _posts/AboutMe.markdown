@@ -1,9 +1,8 @@
 ---
 title:  "About Me"
 subtitle: "Who am I?"
-author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "56770698_1997031337072732_4786564730099597312_n.jpg"
 date:   2015-04-25 12:12:12
 ---
 
