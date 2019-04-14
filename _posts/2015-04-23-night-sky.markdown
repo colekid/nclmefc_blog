@@ -9,10 +9,7 @@ image: "img/56770698_1997031337072732_4786564730099597312_n.jpg"
 ### Who Am I?
 I was born and grew up in the Philippines. I am an only child and was strictly supervised by my parents. I was taught to just study and read books. I was an introvert and a wallflower kid. On the other hand, I did aspire a lot of things. I aspired to be a scientist/chemist because I like experimenting and inventing stuff, an engineer because I want to build a house for my parents, and also, I thought of being a badminton athlete because I enjoyed playing it. However, these dreams that I want to achieve changed just because of a certain situation and it was when my parents gave me a PC for my birthday. This made me be curious how people behind the creation of this machinery built something that changed people’s lives. I asked myself, “What would I do to be able to change the way we live?” With this in mind, I finally had a goal to focus on which is to be able to work in the tech industry, to build my own company, and to be someone who can help for the betterment of our society.
 
-image: "img/kisspng-flag-of-the-philippines-filipino-cuisine-logo-philippines-5abdc068e1f415.9758276115223850009255.jpg"
----
-
-### 
+### Blah... Blah.. Blahh
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
 
 Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
