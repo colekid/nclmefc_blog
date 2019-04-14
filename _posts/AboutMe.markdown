@@ -2,7 +2,6 @@
 title:  "About Me"
 avatar: "img/authors/wferr.png"
 image: "56770698_1997031337072732_4786564730099597312_n.jpg"
-date:   2015-04-25 12:12:12
 ---
 
 ### Dolor sit amet?
