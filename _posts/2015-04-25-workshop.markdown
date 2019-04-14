@@ -4,6 +4,7 @@ subtitle: "Hire Me!"
 author: "Nicotine_Patch"
 avatar: "img/authors/57253354_2343782818976189_3750641617854267392_n.png"
 image: "Hire-Me-1024x493.jpg"
+date: 2019-04-14
 ---
 
 ### EDUCATION	
