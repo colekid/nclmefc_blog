@@ -7,10 +7,12 @@ image: "Hire-Me-1024x493.png"
 ---
 
 ### EDUCATION	
-Florida International University – Miami, FL					
+Florida International University – Miami, FL
+---
 Current GPA: 3.7
 ---
-  Bachelor of Science in Information Technology			
+  Bachelor of Science in Information Technology
+  ---
   Expected Graduation: Fall 2020
 ---
 Broward Community College – Fort Lauderdale, FL					
