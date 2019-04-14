@@ -4,6 +4,7 @@ subtitle: "Me, Myself, and I"
 author: "Nicotine_Patch"
 avatar: "img/authors/57253354_2343782818976189_3750641617854267392_n.png"
 image: "img/56770698_1997031337072732_4786564730099597312_n.jpg"
+date: 2019-04-14
 ---
 
 ### Who Am I?
