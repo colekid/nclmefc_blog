@@ -8,6 +8,12 @@ A Simple, Clean and responsive modern blog for jekyll.
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
 Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
+## Social Media
+twitter: https://twitter.com/nclmefcm
+instagram: "https://www.instagram.com/nclmefc
+linkedin: "https://www.linkedin.com/in/nicole-mae-chang-823b4416a
+github: https://github.com/colekid
+
 ## License
 
 Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
