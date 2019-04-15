@@ -1,7 +1,11 @@
 # Site settings
 title: NMC
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+description: Personal Blog
+keywords: 
+author: Nicotine_Patch
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "" 
+twitter: "nclmefcm"
+instagram: "nclmefc"
+linkedin: "nicole-mae-chang-823b4416a"
+github: "colekid"
