@@ -1,5 +1,6 @@
 ---
 title:  "Resume"
+avatar: img/authors/57253354_2343782818976189_3750641617854267392_n.png
 image: img/IT Spotlight.jpg
 ---
 
