@@ -5,8 +5,8 @@ image: "Hire-Me-1024x493.jpg"
 ---
 
 ### EDUCATION	
-Florida International University – Miami, FL ((Expected Graduation: FALL 2020))
-Bachelor of Science in Information Technology Current GPA: 3.7)
+Florida International University – Miami, FL (Expected Graduation: FALL 2020)
+Bachelor of Science in Information Technology Current GPA: 3.7
 ---
 Broward Community College – Davie, FL (Graduation: FALL 2017)
   Associate in Arts - General Education GPA: 3.8 
@@ -22,6 +22,7 @@ Broward Community College – Davie, FL (Graduation: FALL 2017)
     •	Dealt with handling sales transactions involving cash, credit, or financial aid payments
     •	Processed customer orders, book deliveries and returns, and book pre-orders
     •	Organized books, merchandise, and other products
+---
 ### PROJECTS
   MITM (Man-in-the-Middle) Attack – SparkDev Demo (Florida International University)	    April 2019
   ---
@@ -38,6 +39,7 @@ Our Cybersecurity team implemented a way of hacking a device that focuses on the
   Upsilon Pi Epsilon (Honor Society for CS/IT) - Miami, FL				October 2018
  ---
  •	Member of SparkDev Cybersecurity Team
+ ---
   Tau Beta Pi (Honor Society for Engineering and STEM Majors) – Miami, FL 	January 2019
  ---
  • Educated K-12 students on STEM related topics through an outreach program
