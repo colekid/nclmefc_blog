@@ -1,6 +1,6 @@
 ---
 title:  "About Me"
-image: "IT Spotlight.jpg"
+image: "56770698_1997031337072732_4786564730099597312_n.jpg"
 ---
 
 ### Who Am I?
