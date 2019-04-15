@@ -1,6 +1,6 @@
 ---
 title:  "Resume"
-image: "IT Spotlight.jpg"
+image: img/IT Spotlight.jpg
 ---
 
 ### EDUCATION	
