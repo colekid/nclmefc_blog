@@ -1,6 +1,6 @@
 ---
 title:  "Resume"
-image: "Hire-Me-1024x493.jpg"
+image: "IT Spotlight.jpg"
 ---
 
 ### EDUCATION	
