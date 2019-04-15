@@ -1,6 +1,5 @@
 ---
 title:  "Resume"
-subtitle: "Hire Me!"
 image: "Hire-Me-1024x493.jpg"
 ---
 
